@@ -1,0 +1,9 @@
+@inproceedings{REPO115,
+    author = "Chen, He and Wang, Qian and Dong, Zheng and Zhang, Ning",
+    booktitle = "2020 IEEE/CIC International Conference on Communications in China (ICCC)",
+    number = "",
+    pages = "1162-1167",
+    title = "{Multiuser Scheduling for Minimizing Age of Information in Uplink MIMO Systems}",
+    volume = "",
+    year = "2020"
+}
